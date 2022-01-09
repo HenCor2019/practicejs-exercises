@@ -23,7 +23,7 @@ const rotateList = require('./rotateList')
 
 /*
  test('5 rotations in [7,1,4,1] to be [1,7,1,4]', () => {
-   const response = rotateList([7,1,4,1], 3)
+   const response = rotateList([7,1,4,1], 5)
    expect(response).toEqual(expect.arrayContaining([1,7,1,4]))
  })
 */
