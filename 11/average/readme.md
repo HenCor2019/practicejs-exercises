@@ -2,6 +2,4 @@
 
 ## Conditions
 
-1. The use of the next statements is prohibited:
-  1. Any variant of for statement
-  2. Any variant of loop statement
+1. You cannot use a for, while statement
